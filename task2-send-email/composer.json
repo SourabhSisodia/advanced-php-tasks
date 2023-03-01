@@ -1,0 +1,8 @@
+{
+  "name": "sourabh/inn_php",
+  "description": "testing some mails",
+  "type": "project",
+  "require": {
+    "phpmailer/phpmailer": "^6.7"
+  }
+}
