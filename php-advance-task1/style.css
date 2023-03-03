@@ -1,0 +1,21 @@
+.service-title,
+.service-secondary-title {
+  font-size: 3rem;
+  line-height: 1.4;
+  text-transform: uppercase;
+  font-family: "ss-bold";
+}
+.abc {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.left-part {
+  width: 45%;
+}
+.right-part {
+  width: 45%;
+}
